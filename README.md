@@ -4,8 +4,8 @@ This project simulates and monitors real-time data from a virtual vehicle, using
 
 ## 👩‍💻 Authors
 
-- Victoria Grand — ID: 211856208
-- Noa Rofe — ID: 208328286
+- Victoria Grand 
+- Noa Rofe
 
 ## 🎯 Project Goals
 
